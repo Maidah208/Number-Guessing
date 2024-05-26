@@ -1,2 +1,2 @@
-# uli-Number-Guessing
-this is a simple uli based number guessing game
+# Number-Guessing-Game
+this is a simple cli(command line interface) based number guessing game
